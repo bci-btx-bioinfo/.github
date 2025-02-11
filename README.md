@@ -1,4 +1,4 @@
-# QMUL BCI Bioinformatics
+# QMUL BCI Bioinformatics led by Prof. Claude Chelala
 
 [![View Team Page](https://img.shields.io/badge/View%20Team%20Page-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bci.qmul.ac.uk/staff/professor-claude-chelala/)
 
