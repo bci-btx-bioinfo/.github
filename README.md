@@ -11,7 +11,7 @@ The Bioinformatics Team at Barts Cancer Institute (BCI), Queen Mary University o
 - **AI in Cancer Research** – Collaborating on AI-driven projects like OPTIMA for personalized treatment strategies.
 
 ## Get Involved
-- Explore our [Repositories]([https://github.com/YOUR-ORG-NAME](https://github.com/orgs/bci-btx-bioinfo/repositories))
+- Explore our [Repositories](https://github.com/orgs/bci-btx-bioinfo/repositories)
 - Read our latest [Publications](https://www.bci.qmul.ac.uk/staff/professor-claude-chelala/)
 - Contribute to our open-source projects
 
